@@ -2,11 +2,6 @@
 
 **Beihang University (BUAA) | 北京航空航天大学**
 
-[![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://www.python.org/)
-[![ROS2](https://img.shields.io/badge/ROS2-Jazzy/Iron-22314E?logo=ros)](https://docs.ros.org/)
-[![Raspberry Pi](https://img.shields.io/badge/Hardware-Raspberry_Pi_5-C51A4A?logo=raspberrypi)](https://www.raspberrypi.com/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-
 ---
 
 ## 🇬🇧 English
@@ -21,11 +16,9 @@ Welcome to the official repository for the **International Students Robotic Club
 - **System Integration:** Seamlessly integrate hardware and software using ROS2 (Robot Operating System 2) on Raspberry Pi.
 
 ### 🛠️ Tech Stack
-- **Core Compute:** Raspberry Pi 5 / Compute Module 5 (Running Ubuntu 22.04/24.04)
-- **Middleware:** ROS2 (Humble/Jazzy)
+- **Core Compute:** ESP32-S3(WROOM-1-16N8R)
 - **Languages:** Python, C++
-- **Vision & AI:** OpenCV, PyTorch, MediaPipe, YOLOv8
-- **Hardware Control:** PCA9685 / Custom Servo Drivers, I2C/SPI communication
+- **Hardware Control:** RP8-U45H-M |9.0-12.6| Servo / UC-01 Servo Drivers, SPI communication
 
 ### 📂 Repository Structure
 ```text
