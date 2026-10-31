@@ -4,7 +4,7 @@
 
 ---
 
-## 🇬🇧 English
+## English
 
 ### 🌟 Introduction
 Welcome to the official repository for the **International Students Robotic Club (ISRC) 2026** at Beihang University. This project is dedicated to the research, design, and development of a fully autonomous **Humanoid Robot** powered by the **Raspberry Pi** ecosystem. Our ultimate goal is to compete and excel in the upcoming [Insert Competition Name, e.g., RoboCup 2026 / National University Robotics Competition].
@@ -48,7 +48,7 @@ Welcome to the official repository for the **International Students Robotic Club
 
 ---
 
-## 🇨🇳 中文
+## 中文
 
 ### 🌟 简介
 欢迎来到**北京航空航天大学 2026 国际学生机器人社 (ISRC)** 的官方代码仓库。本项目致力于基于 **树莓派 (Raspberry Pi)** 生态系统，研究、设计和开发一款全自主的 **人形机器人**。我们的最终目标是在即将到来的 [请填入比赛名称，例如：2026 RoboCup / 全国大学生机器人竞赛] 中参赛并取得优异成绩。
