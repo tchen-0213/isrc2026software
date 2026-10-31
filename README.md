@@ -18,7 +18,7 @@ Welcome to the official repository for the **International Students Robotic Club
 ### 🛠️ Tech Stack
 - **Core Compute:** ESP32-S3(WROOM-1-16N8R)
 - **Languages:** Python, C++
-- **Hardware Control:** RP8-U45H-M |9.0-12.6| Servo(16个) / UC-01 Servo Drivers, SPI communication (IMU-BN0086)
+- **Hardware Control:** RP8-U45H-M |9.0-12.6| Servo(16 pcs) / UC-01 Servo Drivers, SPI communication (IMU-BN0086)
 
 ### 📂 Repository Structure
 ```text
@@ -60,11 +60,9 @@ Welcome to the official repository for the **International Students Robotic Club
 - **系统集成：** 在树莓派上使用 ROS2（机器人操作系统 2）实现软硬件的无缝集成。
 
 ### 🛠️ 技术栈
-- **核心计算平台：** 树莓派 5 / Compute Module 5 (运行 Ubuntu 22.04/24.04)
-- **中间件：** ROS2 (Humble/Jazzy)
-- **编程语言：** Python, C++
-- **视觉与 AI：** OpenCV, PyTorch, MediaPipe, YOLOv8
-- **硬件控制：** PCA9685 / 自定义舵机驱动, I2C/SPI 通信
+- **Core Compute:** ESP32-S3(WROOM-1-16N8R)
+- **Languages:** Python, C++
+- **Hardware Control:** RP8-U45H-M |9.0-12.6| Servo(16个) / UC-01 Servo Drivers, SPI communication (IMU-BN0086)
 
 ### 📂 仓库结构
 ```text
