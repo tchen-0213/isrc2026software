@@ -116,11 +116,3 @@ Welcome to the official repository for the **International Students Robotic Club
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 本项目基于 MIT 许可证开源。详情请参阅 [LICENSE](LICENSE) 文件。
-
-```
-
-### 💡 Tips for your GitHub Repository:
-1. **Update Placeholders:** Make sure to replace `[Insert Competition Name...]` with the actual name of the competition you are preparing for (e.g., *RoboCup 2026*, *CN RoboMaster*, etc.).
-2. **Update Contact Info:** Change the email and WeChat ID to your club's actual contact information.
-3. **Add Images:** GitHub READMEs look much better with images. I highly recommend adding a banner image at the very top (under the title) showing your CAD design or a photo of the robot. You can do this by adding: `![Robot Banner](docs/images/robot_banner.jpg)` right below the badges.
-4. **Create the folders:** Make sure to actually create the `src/`, `hardware/`, `docs/`, and `scripts/` folders in your repo so the structure matches the README.
