@@ -109,8 +109,7 @@ Welcome to the official repository for the **International Students Robotic Club
 ## 📞 Contact | 联系我们
 
 - **Club:** International Students Robotic Club (ISRC) @ Beihang University | 北京航空航天大学国际学生机器人社
-- **Email:** isrc@buaa.edu.cn *(Update with your actual email)*
-- **WeChat Official Account:** BUAA_ISRC *(Update with your actual ID)*
+- head of software department|WeChat ID:tieNChi1022
 
 ## 📜 License | 开源许可
 
