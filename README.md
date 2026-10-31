@@ -18,7 +18,7 @@ Welcome to the official repository for the **International Students Robotic Club
 ### 🛠️ Tech Stack
 - **Core Compute:** ESP32-S3(WROOM-1-16N8R)
 - **Languages:** Python, C++
-- **Hardware Control:** RP8-U45H-M |9.0-12.6| Servo / UC-01 Servo Drivers, SPI communication
+- **Hardware Control:** RP8-U45H-M |9.0-12.6| Servo(16个) / UC-01 Servo Drivers, SPI communication (IMU-BN0086)
 
 ### 📂 Repository Structure
 ```text
