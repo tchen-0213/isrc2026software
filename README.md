@@ -1,6 +1,4 @@
 
-***
-
 ```markdown
 # 🤖 ISRC 2026: Humanoid Robotics Project | 2026 国际学生机器人社：人形机器人项目
 
